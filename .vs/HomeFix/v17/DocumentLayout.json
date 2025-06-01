@@ -1,0 +1,369 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HomeFix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C664CE65-6FF2-48E1-917C-0A9DB772724F}|HomeFix\\HomeFix.csproj|d:\\homefix\\homefix\\homefix.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C664CE65-6FF2-48E1-917C-0A9DB772724F}|HomeFix\\HomeFix.csproj|solutionrelative:homefix\\homefix.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C664CE65-6FF2-48E1-917C-0A9DB772724F}|HomeFix\\HomeFix.csproj|d:\\homefix\\homefix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C664CE65-6FF2-48E1-917C-0A9DB772724F}|HomeFix\\HomeFix.csproj|solutionrelative:homefix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C664CE65-6FF2-48E1-917C-0A9DB772724F}|HomeFix\\HomeFix.csproj|d:\\homefix\\homefix\\pages\\account\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C664CE65-6FF2-48E1-917C-0A9DB772724F}|HomeFix\\HomeFix.csproj|solutionrelative:homefix\\pages\\account\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C664CE65-6FF2-48E1-917C-0A9DB772724F}|HomeFix\\HomeFix.csproj|d:\\homefix\\homefix\\pages\\account\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C664CE65-6FF2-48E1-917C-0A9DB772724F}|HomeFix\\HomeFix.csproj|solutionrelative:homefix\\pages\\account\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C664CE65-6FF2-48E1-917C-0A9DB772724F}|HomeFix\\HomeFix.csproj|d:\\homefix\\homefix\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C664CE65-6FF2-48E1-917C-0A9DB772724F}|HomeFix\\HomeFix.csproj|solutionrelative:homefix\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C664CE65-6FF2-48E1-917C-0A9DB772724F}|HomeFix\\HomeFix.csproj|d:\\homefix\\homefix\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C664CE65-6FF2-48E1-917C-0A9DB772724F}|HomeFix\\HomeFix.csproj|solutionrelative:homefix\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C664CE65-6FF2-48E1-917C-0A9DB772724F}|HomeFix\\HomeFix.csproj|d:\\homefix\\homefix\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C664CE65-6FF2-48E1-917C-0A9DB772724F}|HomeFix\\HomeFix.csproj|solutionrelative:homefix\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C664CE65-6FF2-48E1-917C-0A9DB772724F}|HomeFix\\HomeFix.csproj|d:\\homefix\\homefix\\models\\largeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C664CE65-6FF2-48E1-917C-0A9DB772724F}|HomeFix\\HomeFix.csproj|solutionrelative:homefix\\models\\largeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C664CE65-6FF2-48E1-917C-0A9DB772724F}|HomeFix\\HomeFix.csproj|d:\\homefix\\homefix\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C664CE65-6FF2-48E1-917C-0A9DB772724F}|HomeFix\\HomeFix.csproj|solutionrelative:homefix\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C664CE65-6FF2-48E1-917C-0A9DB772724F}|HomeFix\\HomeFix.csproj|d:\\homefix\\homefix\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C664CE65-6FF2-48E1-917C-0A9DB772724F}|HomeFix\\HomeFix.csproj|solutionrelative:homefix\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C664CE65-6FF2-48E1-917C-0A9DB772724F}|HomeFix\\HomeFix.csproj|d:\\homefix\\homefix\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C664CE65-6FF2-48E1-917C-0A9DB772724F}|HomeFix\\HomeFix.csproj|solutionrelative:homefix\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C664CE65-6FF2-48E1-917C-0A9DB772724F}|HomeFix\\HomeFix.csproj|d:\\homefix\\homefix\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C664CE65-6FF2-48E1-917C-0A9DB772724F}|HomeFix\\HomeFix.csproj|solutionrelative:homefix\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C664CE65-6FF2-48E1-917C-0A9DB772724F}|HomeFix\\HomeFix.csproj|d:\\homefix\\homefix\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C664CE65-6FF2-48E1-917C-0A9DB772724F}|HomeFix\\HomeFix.csproj|solutionrelative:homefix\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C664CE65-6FF2-48E1-917C-0A9DB772724F}|HomeFix\\HomeFix.csproj|d:\\homefix\\homefix\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C664CE65-6FF2-48E1-917C-0A9DB772724F}|HomeFix\\HomeFix.csproj|solutionrelative:homefix\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C664CE65-6FF2-48E1-917C-0A9DB772724F}|HomeFix\\HomeFix.csproj|d:\\homefix\\homefix\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C664CE65-6FF2-48E1-917C-0A9DB772724F}|HomeFix\\HomeFix.csproj|solutionrelative:homefix\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C664CE65-6FF2-48E1-917C-0A9DB772724F}|HomeFix\\HomeFix.csproj|d:\\homefix\\homefix\\models\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C664CE65-6FF2-48E1-917C-0A9DB772724F}|HomeFix\\HomeFix.csproj|solutionrelative:homefix\\models\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C664CE65-6FF2-48E1-917C-0A9DB772724F}|HomeFix\\HomeFix.csproj|d:\\homefix\\homefix\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C664CE65-6FF2-48E1-917C-0A9DB772724F}|HomeFix\\HomeFix.csproj|solutionrelative:homefix\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C664CE65-6FF2-48E1-917C-0A9DB772724F}|HomeFix\\HomeFix.csproj|d:\\homefix\\homefix\\models\\smalljob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C664CE65-6FF2-48E1-917C-0A9DB772724F}|HomeFix\\HomeFix.csproj|solutionrelative:homefix\\models\\smalljob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C664CE65-6FF2-48E1-917C-0A9DB772724F}|HomeFix\\HomeFix.csproj|d:\\homefix\\homefix\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C664CE65-6FF2-48E1-917C-0A9DB772724F}|HomeFix\\HomeFix.csproj|solutionrelative:homefix\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C664CE65-6FF2-48E1-917C-0A9DB772724F}|HomeFix\\HomeFix.csproj|d:\\homefix\\homefix\\models\\commission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C664CE65-6FF2-48E1-917C-0A9DB772724F}|HomeFix\\HomeFix.csproj|solutionrelative:homefix\\models\\commission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C664CE65-6FF2-48E1-917C-0A9DB772724F}|HomeFix\\HomeFix.csproj|d:\\homefix\\homefix\\migrations\\20250601080515_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C664CE65-6FF2-48E1-917C-0A9DB772724F}|HomeFix\\HomeFix.csproj|solutionrelative:homefix\\migrations\\20250601080515_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 173,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\HomeFix\\HomeFix\\Pages\\Account\\LoginModel.cs",
+              "RelativeDocumentMoniker": "HomeFix\\Pages\\Account\\LoginModel.cs",
+              "ToolTip": "D:\\HomeFix\\HomeFix\\Pages\\Account\\LoginModel.cs",
+              "RelativeToolTip": "HomeFix\\Pages\\Account\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T08:25:03.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "D:\\HomeFix\\HomeFix\\Pages\\Account\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "HomeFix\\Pages\\Account\\RegisterModel.cs",
+              "ToolTip": "D:\\HomeFix\\HomeFix\\Pages\\Account\\RegisterModel.cs",
+              "RelativeToolTip": "HomeFix\\Pages\\Account\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T08:24:23.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\HomeFix\\HomeFix\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "HomeFix\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\HomeFix\\HomeFix\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "HomeFix\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwCQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T08:20:26.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\HomeFix\\HomeFix\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "HomeFix\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "D:\\HomeFix\\HomeFix\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "HomeFix\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwC4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T08:20:20.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "D:\\HomeFix\\HomeFix\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "HomeFix\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "D:\\HomeFix\\HomeFix\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "HomeFix\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T08:19:55.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HomeFix\\HomeFix\\Program.cs",
+              "RelativeDocumentMoniker": "HomeFix\\Program.cs",
+              "ToolTip": "D:\\HomeFix\\HomeFix\\Program.cs",
+              "RelativeToolTip": "HomeFix\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:52:58.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeFix.csproj",
+              "DocumentMoniker": "D:\\HomeFix\\HomeFix\\HomeFix.csproj",
+              "RelativeDocumentMoniker": "HomeFix\\HomeFix.csproj",
+              "ToolTip": "D:\\HomeFix\\HomeFix\\HomeFix.csproj",
+              "RelativeToolTip": "HomeFix\\HomeFix.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-01T07:44:31.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "D:\\HomeFix\\HomeFix\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "HomeFix\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "D:\\HomeFix\\HomeFix\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "HomeFix\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T08:26:08.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\HomeFix\\HomeFix\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "HomeFix\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\HomeFix\\HomeFix\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "HomeFix\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T08:19:56.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LargeProject.cs",
+              "DocumentMoniker": "D:\\HomeFix\\HomeFix\\Models\\LargeProject.cs",
+              "RelativeDocumentMoniker": "HomeFix\\Models\\LargeProject.cs",
+              "ToolTip": "D:\\HomeFix\\HomeFix\\Models\\LargeProject.cs",
+              "RelativeToolTip": "HomeFix\\Models\\LargeProject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:45:40.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\HomeFix\\HomeFix\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "HomeFix\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\HomeFix\\HomeFix\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "HomeFix\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T08:19:59.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250601080515_InitialCreate.cs",
+              "DocumentMoniker": "D:\\HomeFix\\HomeFix\\Migrations\\20250601080515_InitialCreate.cs",
+              "RelativeDocumentMoniker": "HomeFix\\Migrations\\20250601080515_InitialCreate.cs",
+              "ToolTip": "D:\\HomeFix\\HomeFix\\Migrations\\20250601080515_InitialCreate.cs",
+              "RelativeToolTip": "HomeFix\\Migrations\\20250601080515_InitialCreate.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T08:05:15.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\HomeFix\\HomeFix\\appsettings.json",
+              "RelativeDocumentMoniker": "HomeFix\\appsettings.json",
+              "ToolTip": "D:\\HomeFix\\HomeFix\\appsettings.json",
+              "RelativeToolTip": "HomeFix\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-01T07:52:30.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\HomeFix\\HomeFix\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "HomeFix\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\HomeFix\\HomeFix\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "HomeFix\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wBgAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:49:29.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "D:\\HomeFix\\HomeFix\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "HomeFix\\Models\\Notification.cs",
+              "ToolTip": "D:\\HomeFix\\HomeFix\\Models\\Notification.cs",
+              "RelativeToolTip": "HomeFix\\Models\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:46:34.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Commission.cs",
+              "DocumentMoniker": "D:\\HomeFix\\HomeFix\\Models\\Commission.cs",
+              "RelativeDocumentMoniker": "HomeFix\\Models\\Commission.cs",
+              "ToolTip": "D:\\HomeFix\\HomeFix\\Models\\Commission.cs",
+              "RelativeToolTip": "HomeFix\\Models\\Commission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:46:06.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\HomeFix\\HomeFix\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "HomeFix\\Models\\Payment.cs",
+              "ToolTip": "D:\\HomeFix\\HomeFix\\Models\\Payment.cs",
+              "RelativeToolTip": "HomeFix\\Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:45:59.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Quote.cs",
+              "DocumentMoniker": "D:\\HomeFix\\HomeFix\\Models\\Quote.cs",
+              "RelativeDocumentMoniker": "HomeFix\\Models\\Quote.cs",
+              "ToolTip": "D:\\HomeFix\\HomeFix\\Models\\Quote.cs",
+              "RelativeToolTip": "HomeFix\\Models\\Quote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:45:50.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Review.cs",
+              "DocumentMoniker": "D:\\HomeFix\\HomeFix\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "HomeFix\\Models\\Review.cs",
+              "ToolTip": "D:\\HomeFix\\HomeFix\\Models\\Review.cs",
+              "RelativeToolTip": "HomeFix\\Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:46:14.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SmallJob.cs",
+              "DocumentMoniker": "D:\\HomeFix\\HomeFix\\Models\\SmallJob.cs",
+              "RelativeDocumentMoniker": "HomeFix\\Models\\SmallJob.cs",
+              "ToolTip": "D:\\HomeFix\\HomeFix\\Models\\SmallJob.cs",
+              "RelativeToolTip": "HomeFix\\Models\\SmallJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:45:31.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\HomeFix\\HomeFix\\Models\\User.cs",
+              "RelativeDocumentMoniker": "HomeFix\\Models\\User.cs",
+              "ToolTip": "D:\\HomeFix\\HomeFix\\Models\\User.cs",
+              "RelativeToolTip": "HomeFix\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T07:45:22.461Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
